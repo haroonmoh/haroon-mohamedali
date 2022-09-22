@@ -19,22 +19,17 @@ const skills = [
   },
   {
     title: 'Bash',
-    competency: 2,
+    competency: 3,
     category: ['Tools', 'Languages'],
   },
   {
     title: 'Amazon Web Services',
-    competency: 4,
-    category: ['Web Development', 'Tools'],
-  },
-  {
-    title: 'Heroku',
-    competency: 2,
+    competency: 3,
     category: ['Web Development', 'Tools'],
   },
   {
     title: 'MongoDB',
-    competency: 3,
+    competency: 4,
     category: ['Web Development', 'Databases'],
   },
   {
@@ -46,11 +41,6 @@ const skills = [
     title: 'PostgreSQL/SQLite3/SQL',
     competency: 4,
     category: ['Web Development', 'Databases', 'Languages'],
-  },
-  {
-    title: 'Redis',
-    competency: 3,
-    category: ['Web Development', 'Databases'],
   },
   {
     title: 'Data Mining',
@@ -69,7 +59,7 @@ const skills = [
   },
   {
     title: 'Flask',
-    competency: 2,
+    competency: 3,
     category: ['Web Development', 'Python'],
   },
   {
@@ -94,7 +84,7 @@ const skills = [
   },
   {
     title: 'Numba',
-    competency: 2,
+    competency: 1,
     category: ['Data Science', 'Data Engineering', 'Python'],
   },
   {
@@ -124,22 +114,22 @@ const skills = [
   },
   {
     title: 'C++',
-    competency: 2,
+    competency: 4,
     category: ['Languages'],
   },
   {
     title: 'Julia',
-    competency: 2,
+    competency: 1,
     category: ['Languages'],
   },
   {
     title: 'MATLAB',
-    competency: 2,
+    competency: 1,
     category: ['Languages'],
   },
   {
     title: 'R',
-    competency: 2,
+    competency: 1,
     category: ['Languages'],
   },
   {
@@ -169,17 +159,17 @@ const skills = [
   },
   {
     title: 'Hadoop',
-    competency: 2,
+    competency: 1,
     category: ['Data Engineering', 'Data Science'],
   },
   {
     title: 'Spark',
-    competency: 2,
+    competency: 1,
     category: ['Data Engineering', 'Data Science'],
   },
   {
     title: 'Dagster',
-    competency: 2,
+    competency: 1,
     category: ['Data Engineering', 'Python'],
   },
   {

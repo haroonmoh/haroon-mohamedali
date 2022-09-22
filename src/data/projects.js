@@ -1,47 +1,59 @@
 // TODO Add a couple lines about each project
 const data = [
   {
-    title: 'Nearest Dollar',
-    subtitle: '2015 BVP Hackathon',
-    image: '/images/projects/nearestdollar.jpg',
-    date: '2015-11-20',
+    title: 'Invoice Mob',
+    subtitle: 'Build beautiful invoices for FREE.',
+    link: 'https://invoicemob.com',
+    image: '/images/projects/im.png',
+    date: '2022-08-25',
     desc:
-      'Built for a social impact hackathon. '
-      + 'NearestDollar connected to your bank accounts, credit cards, '
-      + 'or debit cards and rounded up your purchases to donate the balance to '
-      + 'the charity of your choice.',
+      'My friend came to me with the problem of always having to pay '
+      + 'for his invoice app. I told him I would build something similar '
+      + 'and open it to the public for free. We do have a paid option tho :)',
   },
   {
-    title: 'Harvest',
-    subtitle: 'Won 3rd. place in 2015 Techcrunch Disrupt SF Hackathon',
-    link: 'https://devpost.com/software/harvest',
-    image: '/images/projects/harvest.jpg',
-    date: '2015-09-20',
+    title: 'Notesy',
+    subtitle: 'A Daily Journal',
+    link: 'https://apps.apple.com/us/app/notesy-the-note-app/id1640560120',
+    image: '/images/projects/b.jpg',
+    date: '2022-09-01',
     desc:
-      'Won ~ $7000 in prizes for an advanced, low cost monitoring solution '
-      + 'for crops. Harvest was designed to catch irrigation leaks, overwatering, '
-      + 'and nutrient deficiencies at an affordable price for the developing world.',
+      'Built for myself. I wanted a way to record '
+      + 'how I was feeling everyday and wanted some specific features '
+      + 'other daily journal apps did not integrate. '
+      + 'I would definitely recommend checking it out if you like to write '
+      + 'daily journals. It will ALWAYS be free!',
   },
   {
-    title: 'Space Potato',
-    subtitle: 'A kickstarter funded potato powered weather balloon.',
-    link: 'http://www.spacepotato.org',
-    image: '/images/projects/spacepotato.jpg',
-    date: '2015-06-28',
+    title: 'Jobs Control Plane',
+    subtitle: 'Control and monitor your aggregation jobs',
+    link: 'https://github.com/google/privacy-sandbox-aggregation-service/tree/main/control-plane',
+    image: '/images/projects/cp.png',
+    date: '2022-09-20',
     desc:
-      'Launched a potato battery powered weather balloon with two cameras '
-      + 'and gps transponder. Resulting photos were published in a coffee table book. '
-      + 'You can email me for a copy.',
+      'Over the summer of 2022, I worked on a Google Open Source project '
+      + 'called the Privacy Sandbox. During my time, I worked on providing a control-plane '
+      + 'for advertisers (Facebook Ads, Google Ads, Amazon Ads, etc.) to control their '
+      + 'aggregation jobs.',
   },
   {
-    title: 'Cat Detector',
-    subtitle: 'A convolutional neural network to classify cats! (and dogs)',
-    image: '/images/projects/catdetector.jpg',
-    date: '2015-05-15',
+    title: 'Rozas',
+    subtitle: 'https://rozas.app',
+    image: '/images/projects/r.png',
+    date: '2022-08-15',
     desc:
-      'Trained a convolutional neural network to classify between ~ 80 cats breeds. '
-      + 'Over 60,000 cats were classified before server bills made the project too expensive '
-      + 'to continue hosting.',
+      'Rozas is an app built on top of GPT-3 that allows users to have conversations, '
+      + 'ask questions, and interact with a large-language model. Too often the public '
+      + 'does not get to see all the cool advances made in ML.',
+  },
+  {
+    title: 'R-PDF',
+    subtitle: 'https://hypestllc.com/r-pdf/',
+    image: '/images/projects/rp.png',
+    date: '2022-08-15',
+    desc:
+      'Just a simple pdf app that makes it easier for me to read some of my pdfs on my phone. '
+        + 'I got tired of having to zoom in and out of the pdf to be able to read the small text.',
   },
 ];
 
